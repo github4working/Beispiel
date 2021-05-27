@@ -1,0 +1,819 @@
+Ordner 1 (H:\Programming\Bartho\angep Ordnerstruktur Barto\Schaltplaene\Fertigung\BüroContainer_Halle)
+Enthält: 
+175G010R_BueroContainer_Halle.zw1
+175G010R_Schaltplan_BueroContainer_Halle.pdf
+175G010R_Stromkreislegende_BüroContainer_Halle.pdf
+Fehlt: 
+Protokoll_Unterschrieben_BüroContainer_Halle.pdf
+3  Dateien sind vorhanden! 
+
+Ordner 2 (H:\Programming\Bartho\angep Ordnerstruktur Barto\Schaltplaene\Fertigung\NSHV_Halle)
+Enthält: 
+175G010A_NSHV_Halle.zw1
+175G010A_Schaltplan_NSHV_Halle.pdf
+175G010A_Stromkreislegende_NSHV_Halle.pdf
+Fehlt: 
+Protokoll_Unterschrieben_NSHV_Halle.pdf
+3  Dateien sind vorhanden! 
+
+Ordner 3 (H:\Programming\Bartho\angep Ordnerstruktur Barto\Schaltplaene\Fertigung\Technikum_Nr17)
+Enthält: 
+175G0103_Protokoll_Unterschrieben_Technikum_17.pdf
+175G0103_Stromkreislegende_Technikum_17.pdf
+175G0103_Stromlaufplan_Technikum_17.pdf
+175G0103_Technikum_17.zw1
+Fehlt: 
+Schaltplan_Technikum_Nr17.pdf
+4  Dateien sind vorhanden! 
+
+Ordner 4 (H:\Programming\Bartho\angep Ordnerstruktur Barto\Schaltplaene\Fertigung\Technikum_Nr18)
+Enthält: 
+175G010Q_Schaltplan_Technikum_18.pdf
+175G010Q_Stromkreislegende_Technikum_18.pdf
+175G010Q_Technikum_18.zw1
+Fehlt: 
+Protokoll_Unterschrieben_Technikum_Nr18.pdf
+3  Dateien sind vorhanden! 
+
+Ordner 5 (H:\Programming\Bartho\angep Ordnerstruktur Barto\Schaltplaene\Fertigung\UV_10_Halle)
+Enthält: 
+175G010K_Schaltplan_UV_10_Halle.pdf
+175G010K_Stromkreislegende_UV_10_Halle.pdf
+175G010K_UV_10_Halle.zw1
+Fehlt: 
+Protokoll_Unterschrieben_UV_10_Halle.pdf
+3  Dateien sind vorhanden! 
+
+Ordner 6 (H:\Programming\Bartho\angep Ordnerstruktur Barto\Schaltplaene\Fertigung\UV_11_Halle)
+Enthält: 
+175G010L_Schaltplan_UV_11_Halle.pdf
+175G010L_Stromkreislegende_UV-11_Halle.pdf
+175G010L_UV_11_Halle.zw1
+Fehlt: 
+Protokoll_Unterschrieben_UV_11_Halle.pdf
+3  Dateien sind vorhanden! 
+
+Ordner 7 (H:\Programming\Bartho\angep Ordnerstruktur Barto\Schaltplaene\Fertigung\UV_13_Halle)
+Enthält: 
+175G010N_Schaltplan_UV_13_Halle.pdf
+175G010N_Stromkreislegende_UV_13_Halle.pdf
+175G010N_UV_13_Halle.zw1
+Fehlt: 
+Protokoll_Unterschrieben_UV_13_Halle.pdf
+3  Dateien sind vorhanden! 
+
+Ordner 8 (H:\Programming\Bartho\angep Ordnerstruktur Barto\Schaltplaene\Fertigung\UV_14_Kompressor)
+Enthält: 
+175G010O_Schaltplan_UV_14_Kompressor.pdf
+175G010O_Stromkreislegende_UV-14_Kompressor.pdf
+175G010O_UV_14_Kompressor.zw1
+Fehlt: 
+Protokoll_Unterschrieben_UV_14_Kompressor.pdf
+3  Dateien sind vorhanden! 
+
+Ordner 9 (H:\Programming\Bartho\angep Ordnerstruktur Barto\Schaltplaene\Fertigung\UV_1_Halle)
+Enthält: 
+175G010B_Schaltplan_UV_1_Halle.pdf
+175G010B_Stromkreislegende_UV_1_Halle.pdf
+175G010B_UV_1_Halle.zw1
+Fehlt: 
+Protokoll_Unterschrieben_UV_1_Halle.pdf
+3  Dateien sind vorhanden! 
+
+Ordner 10 (H:\Programming\Bartho\angep Ordnerstruktur Barto\Schaltplaene\Fertigung\UV_2_Halle)
+Enthält: 
+175G010C_Schaltplan_UV_2_Halle.pdf
+175G010C_Stromkreislegende_UV_2_Halle.pdf
+175G010C_UV_2_Halle.zw1
+Fehlt: 
+Protokoll_Unterschrieben_UV_2_Halle.pdf
+3  Dateien sind vorhanden! 
+
+Ordner 11 (H:\Programming\Bartho\angep Ordnerstruktur Barto\Schaltplaene\Fertigung\UV_3_Halle)
+Enthält: 
+175G010D_Schaltplan_UV_3_Halle.pdf
+175G010D_Stromkreislegende_UV_3_Halle.pdf
+175G010D_UV_3_Halle.zw1
+Fehlt: 
+Protokoll_Unterschrieben_UV_3_Halle.pdf
+3  Dateien sind vorhanden! 
+
+Ordner 12 (H:\Programming\Bartho\angep Ordnerstruktur Barto\Schaltplaene\Fertigung\UV_4_Halle)
+Enthält: 
+175G010E_Schaltplan_UV_4_Halle.pdf
+175G010E_Stromkreislegende_UV_4_Halle.pdf
+175G010E_UV_4_Halle.zw1
+Fehlt: 
+Protokoll_Unterschrieben_UV_4_Halle.pdf
+3  Dateien sind vorhanden! 
+
+Ordner 13 (H:\Programming\Bartho\angep Ordnerstruktur Barto\Schaltplaene\Fertigung\UV_5_B_Kalthalle)
+Enthält: 
+175G010S_Schaltplan_UV_5_B_Kalthalle.pdf
+175G010S_Stromkreislegende_UV_5_B-Kalthalle.pdf
+175G010S_UV_5_B-Kalthalle.zw1
+Fehlt: 
+Protokoll_Unterschrieben_UV_5_B_Kalthalle.pdf
+3  Dateien sind vorhanden! 
+
+Ordner 14 (H:\Programming\Bartho\angep Ordnerstruktur Barto\Schaltplaene\Fertigung\UV_5_Halle)
+Enthält: 
+175G010F_Schaltplan_UV_5_Halle.pdf
+175G010F_Stromkreislegende_UV_5_Halle.pdf
+175G010F_UV_5_Halle.zw1
+Fehlt: 
+Protokoll_Unterschrieben_UV_5_Halle.pdf
+3  Dateien sind vorhanden! 
+
+Ordner 15 (H:\Programming\Bartho\angep Ordnerstruktur Barto\Schaltplaene\Fertigung\UV_6_Halle)
+Enthält: 
+175G010G_Schaltplan_UV_6_Halle.pdf
+175G010G_Stromkreislegende_UV_6_Halle.pdf
+175G010G_UV_6_Halle.zw1
+Fehlt: 
+Protokoll_Unterschrieben_UV_6_Halle.pdf
+3  Dateien sind vorhanden! 
+
+Ordner 16 (H:\Programming\Bartho\angep Ordnerstruktur Barto\Schaltplaene\Fertigung\UV_7_Halle)
+Enthält: 
+175G010H_Schaltplan_UV_7_Halle.pdf
+175G010H_Stromkreislegende_UV_7_Halle.pdf
+175G010H_UV_7_Halle.zw1
+Fehlt: 
+Protokoll_Unterschrieben_UV_7_Halle.pdf
+3  Dateien sind vorhanden! 
+
+Ordner 17 (H:\Programming\Bartho\angep Ordnerstruktur Barto\Schaltplaene\Fertigung\UV_8_Halle)
+Enthält: 
+175G010I_Schaltplan_UV_8_Halle.pdf
+175G010I_Stromkreislegende_UV_8_Halle.pdf
+175G010I_UV_8_Halle.zw1
+Fehlt: 
+Protokoll_Unterschrieben_UV_8_Halle.pdf
+3  Dateien sind vorhanden! 
+
+Ordner 18 (H:\Programming\Bartho\angep Ordnerstruktur Barto\Schaltplaene\Fertigung\UV_9_Halle)
+Enthält: 
+175G010J_Schaltplan_UV_9_Halle.pdf
+175G010J_Stromkreislegende_UV_9_Halle.pdf
+175G010J_UV_9_Halle.zw1
+Fehlt: 
+Protokoll_Unterschrieben_UV_9_Halle.pdf
+3  Dateien sind vorhanden! 
+
+Ordner 19 (H:\Programming\Bartho\angep Ordnerstruktur Barto\Schaltplaene\Fertigung\UV_Ladesäulen)
+Enthält: 
+08_TU_205G006AA000_2021_02_26_07_13_205G0067_Schaltplan_UV_Ladesaeulen.pdf
+Fehlt: 
+Protokoll_Unterschrieben_UV_Ladesäulen.pdf,
+Stromkreislegende_UV_Ladesäulen.pdf,
+UV_Ladesäulen.zw1
+1  Datei ist vorhanden! 
+
+Ordner 20 (H:\Programming\Bartho\angep Ordnerstruktur Barto\Schaltplaene\Fertigung\UV_Scannerraum)
+Enthält: 
+195G0121_Pruefprotokoll_Unterschrieben_UV_Scannerraum.pdf
+195G0121_Schaltplan_UV_Scannerraum.pdf
+195G0121_Stromkreislegende_UV_Scannerraum.pdf
+195G0121_UV_Scannerraum.zw1
+Fehlt: 
+4  Dateien sind vorhanden! 
+
+Ordner 21 (H:\Programming\Bartho\angep Ordnerstruktur Barto\Schaltplaene\Fertigung\UV_Steckdosenverteiler)
+Enthält: 
+195G0151_Protokoll_Unterschrieben_UV_Steckdosenverteiler.pdf
+195G0151_Schaltplan_UV_Steckdosenverteiler.pdf
+195G0151_Stromkreislegende_UV_Steckdosenverteiler.pdf
+Fehlt: 
+UV_Steckdosenverteiler.zw1
+3  Dateien sind vorhanden! 
+
+Ordner 22 (H:\Programming\Bartho\angep Ordnerstruktur Barto\Schaltplaene\Verwaltung\1. OG\UV 1.1)
+Enthält: 
+175G0104_Protokoll_unterschrieben_UV1_1.pdf
+175G0104_Schaltplan_UV1_1.pdf
+175G0104_Stromkreislegende_UV1_1.pdf
+175G0104_UV1_1.zw1
+Fehlt: 
+4  Dateien sind vorhanden! 
+
+Ordner 23 (H:\Programming\Bartho\angep Ordnerstruktur Barto\Schaltplaene\Verwaltung\1. OG\UV_1.2)
+Enthält: 
+175G0106_Protokoll_Unterschrieben_UV_1_2.pdf
+175G0106_Schaltplan_UV1_2.pdf
+175G0106_Stromkreislegende_UV1_2.pdf
+175G0106_UV1_2.zw1
+Fehlt: 
+4  Dateien sind vorhanden! 
+
+Ordner 24 (H:\Programming\Bartho\angep Ordnerstruktur Barto\Schaltplaene\Verwaltung\2. OG\UV_2.1)
+Enthält: 
+185G0081_Protokoll_Unterschrieben.pdf
+185G0081_Schaltplan_UV2_1.pdf
+185G0081_Stromkreislegende_UV2_1.pdf
+185G0081_UV_2_1.zw1
+Fehlt: 
+4  Dateien sind vorhanden! 
+
+Ordner 25 (H:\Programming\Bartho\angep Ordnerstruktur Barto\Schaltplaene\Verwaltung\2. OG\UV_2.2)
+Enthält: 
+175G0102_Protokoll_Unterschrieben_UV2_2.pdf
+175G0102_Schaltplan_UV2_2.pdf
+175G0102_Stromkreislegende_UV2_2.pdf
+175G0102_UV2_2.zw1
+Fehlt: 
+4  Dateien sind vorhanden! 
+
+Ordner 26 (H:\Programming\Bartho\angep Ordnerstruktur Barto\Schaltplaene\Verwaltung\EG\UV_0.1)
+Enthält: 
+Fehlt: 
+Schaltplan_UV_0.1.pdf,
+Protokoll_Unterschrieben_UV_0.1.pdf,
+Stromkreislegende_UV_0.1.pdf,
+UV_0.1.zw1
+0  Dateien sind vorhanden! 
+
+Ordner 27 (H:\Programming\Bartho\angep Ordnerstruktur Barto\Schaltplaene\Verwaltung\EG\UV_0.2)
+Enthält: 
+Fehlt: 
+Schaltplan_UV_0.2.pdf,
+Protokoll_Unterschrieben_UV_0.2.pdf,
+Stromkreislegende_UV_0.2.pdf,
+UV_0.2.zw1
+0  Dateien sind vorhanden! 
+
+Ordner 28 (H:\Programming\Bartho\angep Ordnerstruktur Barto\Schaltplaene\Verwaltung\EG\UV_0.3)
+Enthält: 
+Fehlt: 
+Schaltplan_UV_0.3.pdf,
+Protokoll_Unterschrieben_UV_0.3.pdf,
+Stromkreislegende_UV_0.3.pdf,
+UV_0.3.zw1
+0  Dateien sind vorhanden! 
+
+Ordner 29 (H:\Programming\Bartho\angep Ordnerstruktur Barto\Schaltplaene\Verwaltung\UG\Lüftung)
+Enthält: 
+Fehlt: 
+Schaltplan_Lüftung.pdf,
+Protokoll_Unterschrieben_Lüftung.pdf,
+Stromkreislegende_Lüftung.pdf,
+Lüftung.zw1
+0  Dateien sind vorhanden! 
+
+Ordner 30 (H:\Programming\Bartho\angep Ordnerstruktur Barto\Schaltplaene\Verwaltung\UG\Lüftungstechnik_+SLAVE_1.OG)
+Enthält: 
+Fehlt: 
+Schaltplan_Lüftungstechnik_+SLAVE_1.OG.pdf,
+Protokoll_Unterschrieben_Lüftungstechnik_+SLAVE_1.OG.pdf,
+Stromkreislegende_Lüftungstechnik_+SLAVE_1.OG.pdf,
+Lüftungstechnik_+SLAVE_1.OG.zw1
+0  Dateien sind vorhanden! 
+
+Ordner 31 (H:\Programming\Bartho\angep Ordnerstruktur Barto\Schaltplaene\Verwaltung\UG\Lüftungstechnik_+SLAVE_2.OG)
+Enthält: 
+Fehlt: 
+Schaltplan_Lüftungstechnik_+SLAVE_2.OG.pdf,
+Protokoll_Unterschrieben_Lüftungstechnik_+SLAVE_2.OG.pdf,
+Stromkreislegende_Lüftungstechnik_+SLAVE_2.OG.pdf,
+Lüftungstechnik_+SLAVE_2.OG.zw1
+0  Dateien sind vorhanden! 
+
+Ordner 32 (H:\Programming\Bartho\angep Ordnerstruktur Barto\Schaltplaene\Verwaltung\UG\Lüftungstechnik_+SLAVE_EG)
+Enthält: 
+Fehlt: 
+Schaltplan_Lüftungstechnik_+SLAVE_EG.pdf,
+Protokoll_Unterschrieben_Lüftungstechnik_+SLAVE_EG.pdf,
+Stromkreislegende_Lüftungstechnik_+SLAVE_EG.pdf,
+Lüftungstechnik_+SLAVE_EG.zw1
+0  Dateien sind vorhanden! 
+
+Ordner 33 (H:\Programming\Bartho\angep Ordnerstruktur Barto\Schaltplaene\Verwaltung\UG\Lüftungstechnik_+SS)
+Enthält: 
+Fehlt: 
+Schaltplan_Lüftungstechnik_+SS.pdf,
+Protokoll_Unterschrieben_Lüftungstechnik_+SS.pdf,
+Stromkreislegende_Lüftungstechnik_+SS.pdf,
+Lüftungstechnik_+SS.zw1
+0  Dateien sind vorhanden! 
+
+Ordner 34 (H:\Programming\Bartho\angep Ordnerstruktur Barto\Schaltplaene\Verwaltung\UG\NSHV)
+Enthält: 
+Fehlt: 
+Schaltplan_NSHV.pdf,
+Protokoll_Unterschrieben_NSHV.pdf,
+Stromkreislegende_NSHV.pdf,
+NSHV.zw1
+0  Dateien sind vorhanden! 
+
+Ordner 35 (H:\Programming\Bartho\angep Ordnerstruktur Barto\Schaltplaene\Verwaltung\UG\Serverraum 2)
+Enthält: 
+175G0105_Protokoll_Unterschrieben_Serverraum_2_.pdf
+175G0105_Schaltplan_Serverraum_2.pdf
+175G0105_Serverraum_2.zw1
+175G0105_Stromkreislegende_Serverraum_2.pdf
+Fehlt: 
+4  Dateien sind vorhanden! 
+
+Ordner 36 (H:\Programming\Bartho\angep Ordnerstruktur Barto\Schaltplaene\Verwaltung\UG\UV -1.1)
+Enthält: 
+Fehlt: 
+Schaltplan_UV-1.1.pdf,
+Protokoll_Unterschrieben_UV-1.1.pdf,
+Stromkreislegende_UV-1.1.pdf,
+UV-1.1.zw1
+0  Dateien sind vorhanden! 
+
+Ordner 37 (H:\Programming\Bartho\angep Ordnerstruktur Barto\Schaltplaene\Verwaltung\UG\UV -1.2)
+Enthält: 
+175G0101_Protokoll_Unterschrieben_UV-1_2.pdf
+175G0101_Schaltplan_UV-1_2.pdf
+175G0101_Stromkreislegende_UV-1_2.pdf
+175G0101_UV-1_2.zw1
+Fehlt: 
+4  Dateien sind vorhanden! 
+
+Ordner 38 (H:\Programming\Bartho\angep Ordnerstruktur Barto\Schaltplaene\Verwaltung\UG\UV -1.2A)
+Enthält: 
+Fehlt: 
+Schaltplan_UV-1.2A.pdf,
+Protokoll_Unterschrieben_UV-1.2A.pdf,
+Stromkreislegende_UV-1.2A.pdf,
+UV-1.2A.zw1
+0  Dateien sind vorhanden! 
+
+Ordner 39 (H:\Programming\Bartho\angep Ordnerstruktur Barto\Schaltplaene\Verwaltung\UG\UV -1.3)
+Enthält: 
+195G0101_Protokoll_Unterschrieben_UV-1_3.pdf
+195G0101_Schaltplan_UV-1_3.pdf
+195G0101_Stromkreislegende_UV-1_3.pdf
+195G0101_UV-1_3.zw1
+Fehlt: 
+4  Dateien sind vorhanden! 
+
+Ordner 40 (H:\Programming\Bartho\angep Ordnerstruktur Barto\Schaltplaene\Verwaltung\UG\UV -1.4)
+Enthält: 
+Fehlt: 
+Schaltplan_UV-1.4.pdf,
+Protokoll_Unterschrieben_UV-1.4.pdf,
+Stromkreislegende_UV-1.4.pdf,
+UV-1.4.zw1
+0  Dateien sind vorhanden! 
+
+Ordner 41 (H:\Programming\Bartho\angep Ordnerstruktur Barto\Schaltplaene\Verwaltung\UG\UV -1.5)
+Enthält: 
+Fehlt: 
+Schaltplan_UV-1.5.pdf,
+Protokoll_Unterschrieben_UV-1.5.pdf,
+Stromkreislegende_UV-1.5.pdf,
+UV-1.5.zw1
+0  Dateien sind vorhanden! 
+
+Ordner 42 (H:\Programming\Bartho\angep Ordnerstruktur Barto\Schaltplaene\Verwaltung\UG\UV -1.6)
+Enthält: 
+Fehlt: 
+Schaltplan_UV-1.6.pdf,
+Protokoll_Unterschrieben_UV-1.6.pdf,
+Stromkreislegende_UV-1.6.pdf,
+UV-1.6.zw1
+0  Dateien sind vorhanden! 
+
+Ordner 43 (H:\Programming\Bartho\angep Ordnerstruktur Barto\Schaltplaene\Verwaltung\UG\UV -1.7)
+Enthält: 
+Fehlt: 
+Schaltplan_UV-1.7.pdf,
+Protokoll_Unterschrieben_UV-1.7.pdf,
+Stromkreislegende_UV-1.7.pdf,
+UV-1.7.zw1
+0  Dateien sind vorhanden! 
+
+<class 'datetime.time'>
+Ordner 1 (H:\Programming\Bartho\angep Ordnerstruktur Barto\Schaltplaene\Fertigung\BüroContainer_Halle)
+Enthält: 
+175G010R_BueroContainer_Halle.zw1
+175G010R_Schaltplan_BueroContainer_Halle.pdf
+175G010R_Stromkreislegende_BüroContainer_Halle.pdf
+Fehlt: 
+Protokoll_Unterschrieben_BüroContainer_Halle.pdf
+3  Dateien sind vorhanden! 
+
+<class 'datetime.time'>
+Ordner 2 (H:\Programming\Bartho\angep Ordnerstruktur Barto\Schaltplaene\Fertigung\NSHV_Halle)
+Enthält: 
+175G010A_NSHV_Halle.zw1
+175G010A_Schaltplan_NSHV_Halle.pdf
+175G010A_Stromkreislegende_NSHV_Halle.pdf
+Fehlt: 
+Protokoll_Unterschrieben_NSHV_Halle.pdf
+3  Dateien sind vorhanden! 
+
+<class 'datetime.time'>
+Ordner 3 (H:\Programming\Bartho\angep Ordnerstruktur Barto\Schaltplaene\Fertigung\Technikum_Nr17)
+Enthält: 
+175G0103_Protokoll_Unterschrieben_Technikum_17.pdf
+175G0103_Stromkreislegende_Technikum_17.pdf
+175G0103_Stromlaufplan_Technikum_17.pdf
+175G0103_Technikum_17.zw1
+Fehlt: 
+Schaltplan_Technikum_Nr17.pdf
+4  Dateien sind vorhanden! 
+
+<class 'datetime.time'>
+Ordner 4 (H:\Programming\Bartho\angep Ordnerstruktur Barto\Schaltplaene\Fertigung\Technikum_Nr18)
+Enthält: 
+175G010Q_Schaltplan_Technikum_18.pdf
+175G010Q_Stromkreislegende_Technikum_18.pdf
+175G010Q_Technikum_18.zw1
+Fehlt: 
+Protokoll_Unterschrieben_Technikum_Nr18.pdf
+3  Dateien sind vorhanden! 
+
+<class 'datetime.time'>
+Ordner 5 (H:\Programming\Bartho\angep Ordnerstruktur Barto\Schaltplaene\Fertigung\UV_10_Halle)
+Enthält: 
+175G010K_Schaltplan_UV_10_Halle.pdf
+175G010K_Stromkreislegende_UV_10_Halle.pdf
+175G010K_UV_10_Halle.zw1
+Fehlt: 
+Protokoll_Unterschrieben_UV_10_Halle.pdf
+3  Dateien sind vorhanden! 
+
+<class 'datetime.time'>
+Ordner 6 (H:\Programming\Bartho\angep Ordnerstruktur Barto\Schaltplaene\Fertigung\UV_11_Halle)
+Enthält: 
+175G010L_Schaltplan_UV_11_Halle.pdf
+175G010L_Stromkreislegende_UV-11_Halle.pdf
+175G010L_UV_11_Halle.zw1
+Fehlt: 
+Protokoll_Unterschrieben_UV_11_Halle.pdf
+3  Dateien sind vorhanden! 
+
+<class 'datetime.time'>
+Ordner 7 (H:\Programming\Bartho\angep Ordnerstruktur Barto\Schaltplaene\Fertigung\UV_13_Halle)
+Enthält: 
+175G010N_Schaltplan_UV_13_Halle.pdf
+175G010N_Stromkreislegende_UV_13_Halle.pdf
+175G010N_UV_13_Halle.zw1
+Fehlt: 
+Protokoll_Unterschrieben_UV_13_Halle.pdf
+3  Dateien sind vorhanden! 
+
+<class 'datetime.time'>
+Ordner 8 (H:\Programming\Bartho\angep Ordnerstruktur Barto\Schaltplaene\Fertigung\UV_14_Kompressor)
+Enthält: 
+175G010O_Schaltplan_UV_14_Kompressor.pdf
+175G010O_Stromkreislegende_UV-14_Kompressor.pdf
+175G010O_UV_14_Kompressor.zw1
+Fehlt: 
+Protokoll_Unterschrieben_UV_14_Kompressor.pdf
+3  Dateien sind vorhanden! 
+
+<class 'datetime.time'>
+Ordner 9 (H:\Programming\Bartho\angep Ordnerstruktur Barto\Schaltplaene\Fertigung\UV_1_Halle)
+Enthält: 
+175G010B_Schaltplan_UV_1_Halle.pdf
+175G010B_Stromkreislegende_UV_1_Halle.pdf
+175G010B_UV_1_Halle.zw1
+Fehlt: 
+Protokoll_Unterschrieben_UV_1_Halle.pdf
+3  Dateien sind vorhanden! 
+
+<class 'datetime.time'>
+Ordner 10 (H:\Programming\Bartho\angep Ordnerstruktur Barto\Schaltplaene\Fertigung\UV_2_Halle)
+Enthält: 
+175G010C_Schaltplan_UV_2_Halle.pdf
+175G010C_Stromkreislegende_UV_2_Halle.pdf
+175G010C_UV_2_Halle.zw1
+Fehlt: 
+Protokoll_Unterschrieben_UV_2_Halle.pdf
+3  Dateien sind vorhanden! 
+
+<class 'datetime.time'>
+Ordner 11 (H:\Programming\Bartho\angep Ordnerstruktur Barto\Schaltplaene\Fertigung\UV_3_Halle)
+Enthält: 
+175G010D_Schaltplan_UV_3_Halle.pdf
+175G010D_Stromkreislegende_UV_3_Halle.pdf
+175G010D_UV_3_Halle.zw1
+Fehlt: 
+Protokoll_Unterschrieben_UV_3_Halle.pdf
+3  Dateien sind vorhanden! 
+
+<class 'datetime.time'>
+Ordner 12 (H:\Programming\Bartho\angep Ordnerstruktur Barto\Schaltplaene\Fertigung\UV_4_Halle)
+Enthält: 
+175G010E_Schaltplan_UV_4_Halle.pdf
+175G010E_Stromkreislegende_UV_4_Halle.pdf
+175G010E_UV_4_Halle.zw1
+Fehlt: 
+Protokoll_Unterschrieben_UV_4_Halle.pdf
+3  Dateien sind vorhanden! 
+
+<class 'datetime.time'>
+Ordner 13 (H:\Programming\Bartho\angep Ordnerstruktur Barto\Schaltplaene\Fertigung\UV_5_B_Kalthalle)
+Enthält: 
+175G010S_Schaltplan_UV_5_B_Kalthalle.pdf
+175G010S_Stromkreislegende_UV_5_B-Kalthalle.pdf
+175G010S_UV_5_B-Kalthalle.zw1
+Fehlt: 
+Protokoll_Unterschrieben_UV_5_B_Kalthalle.pdf
+3  Dateien sind vorhanden! 
+
+<class 'datetime.time'>
+Ordner 14 (H:\Programming\Bartho\angep Ordnerstruktur Barto\Schaltplaene\Fertigung\UV_5_Halle)
+Enthält: 
+175G010F_Schaltplan_UV_5_Halle.pdf
+175G010F_Stromkreislegende_UV_5_Halle.pdf
+175G010F_UV_5_Halle.zw1
+Fehlt: 
+Protokoll_Unterschrieben_UV_5_Halle.pdf
+3  Dateien sind vorhanden! 
+
+<class 'datetime.time'>
+Ordner 15 (H:\Programming\Bartho\angep Ordnerstruktur Barto\Schaltplaene\Fertigung\UV_6_Halle)
+Enthält: 
+175G010G_Schaltplan_UV_6_Halle.pdf
+175G010G_Stromkreislegende_UV_6_Halle.pdf
+175G010G_UV_6_Halle.zw1
+Fehlt: 
+Protokoll_Unterschrieben_UV_6_Halle.pdf
+3  Dateien sind vorhanden! 
+
+<class 'datetime.time'>
+Ordner 16 (H:\Programming\Bartho\angep Ordnerstruktur Barto\Schaltplaene\Fertigung\UV_7_Halle)
+Enthält: 
+175G010H_Schaltplan_UV_7_Halle.pdf
+175G010H_Stromkreislegende_UV_7_Halle.pdf
+175G010H_UV_7_Halle.zw1
+Fehlt: 
+Protokoll_Unterschrieben_UV_7_Halle.pdf
+3  Dateien sind vorhanden! 
+
+<class 'datetime.time'>
+Ordner 17 (H:\Programming\Bartho\angep Ordnerstruktur Barto\Schaltplaene\Fertigung\UV_8_Halle)
+Enthält: 
+175G010I_Schaltplan_UV_8_Halle.pdf
+175G010I_Stromkreislegende_UV_8_Halle.pdf
+175G010I_UV_8_Halle.zw1
+Fehlt: 
+Protokoll_Unterschrieben_UV_8_Halle.pdf
+3  Dateien sind vorhanden! 
+
+<class 'datetime.time'>
+Ordner 18 (H:\Programming\Bartho\angep Ordnerstruktur Barto\Schaltplaene\Fertigung\UV_9_Halle)
+Enthält: 
+175G010J_Schaltplan_UV_9_Halle.pdf
+175G010J_Stromkreislegende_UV_9_Halle.pdf
+175G010J_UV_9_Halle.zw1
+Fehlt: 
+Protokoll_Unterschrieben_UV_9_Halle.pdf
+3  Dateien sind vorhanden! 
+
+<class 'datetime.time'>
+Ordner 19 (H:\Programming\Bartho\angep Ordnerstruktur Barto\Schaltplaene\Fertigung\UV_Ladesäulen)
+Enthält: 
+08_TU_205G006AA000_2021_02_26_07_13_205G0067_Schaltplan_UV_Ladesaeulen.pdf
+Fehlt: 
+Protokoll_Unterschrieben_UV_Ladesäulen.pdf,
+Stromkreislegende_UV_Ladesäulen.pdf,
+UV_Ladesäulen.zw1
+1  Datei ist vorhanden! 
+
+<class 'datetime.time'>
+Ordner 20 (H:\Programming\Bartho\angep Ordnerstruktur Barto\Schaltplaene\Fertigung\UV_Scannerraum)
+Enthält: 
+195G0121_Pruefprotokoll_Unterschrieben_UV_Scannerraum.pdf
+195G0121_Schaltplan_UV_Scannerraum.pdf
+195G0121_Stromkreislegende_UV_Scannerraum.pdf
+195G0121_UV_Scannerraum.zw1
+Fehlt: 
+4  Dateien sind vorhanden! 
+
+<class 'datetime.time'>
+Ordner 21 (H:\Programming\Bartho\angep Ordnerstruktur Barto\Schaltplaene\Fertigung\UV_Steckdosenverteiler)
+Enthält: 
+195G0151_Protokoll_Unterschrieben_UV_Steckdosenverteiler.pdf
+195G0151_Schaltplan_UV_Steckdosenverteiler.pdf
+195G0151_Stromkreislegende_UV_Steckdosenverteiler.pdf
+Fehlt: 
+UV_Steckdosenverteiler.zw1
+3  Dateien sind vorhanden! 
+
+<class 'datetime.time'>
+Ordner 22 (H:\Programming\Bartho\angep Ordnerstruktur Barto\Schaltplaene\Verwaltung\1. OG\UV 1.1)
+Enthält: 
+175G0104_Protokoll_unterschrieben_UV1_1.pdf
+175G0104_Schaltplan_UV1_1.pdf
+175G0104_Stromkreislegende_UV1_1.pdf
+175G0104_UV1_1.zw1
+Fehlt: 
+4  Dateien sind vorhanden! 
+
+<class 'datetime.time'>
+Ordner 23 (H:\Programming\Bartho\angep Ordnerstruktur Barto\Schaltplaene\Verwaltung\1. OG\UV_1.2)
+Enthält: 
+175G0106_Protokoll_Unterschrieben_UV_1_2.pdf
+175G0106_Schaltplan_UV1_2.pdf
+175G0106_Stromkreislegende_UV1_2.pdf
+175G0106_UV1_2.zw1
+Fehlt: 
+4  Dateien sind vorhanden! 
+
+<class 'datetime.time'>
+Ordner 24 (H:\Programming\Bartho\angep Ordnerstruktur Barto\Schaltplaene\Verwaltung\2. OG\UV_2.1)
+Enthält: 
+185G0081_Protokoll_Unterschrieben.pdf
+185G0081_Schaltplan_UV2_1.pdf
+185G0081_Stromkreislegende_UV2_1.pdf
+185G0081_UV_2_1.zw1
+Fehlt: 
+4  Dateien sind vorhanden! 
+
+<class 'datetime.time'>
+Ordner 25 (H:\Programming\Bartho\angep Ordnerstruktur Barto\Schaltplaene\Verwaltung\2. OG\UV_2.2)
+Enthält: 
+175G0102_Protokoll_Unterschrieben_UV2_2.pdf
+175G0102_Schaltplan_UV2_2.pdf
+175G0102_Stromkreislegende_UV2_2.pdf
+175G0102_UV2_2.zw1
+Fehlt: 
+4  Dateien sind vorhanden! 
+
+<class 'datetime.time'>
+Ordner 26 (H:\Programming\Bartho\angep Ordnerstruktur Barto\Schaltplaene\Verwaltung\EG\UV_0.1)
+Enthält: 
+Fehlt: 
+Schaltplan_UV_0.1.pdf,
+Protokoll_Unterschrieben_UV_0.1.pdf,
+Stromkreislegende_UV_0.1.pdf,
+UV_0.1.zw1
+0  Dateien sind vorhanden! 
+
+<class 'datetime.time'>
+Ordner 27 (H:\Programming\Bartho\angep Ordnerstruktur Barto\Schaltplaene\Verwaltung\EG\UV_0.2)
+Enthält: 
+Fehlt: 
+Schaltplan_UV_0.2.pdf,
+Protokoll_Unterschrieben_UV_0.2.pdf,
+Stromkreislegende_UV_0.2.pdf,
+UV_0.2.zw1
+0  Dateien sind vorhanden! 
+
+<class 'datetime.time'>
+Ordner 28 (H:\Programming\Bartho\angep Ordnerstruktur Barto\Schaltplaene\Verwaltung\EG\UV_0.3)
+Enthält: 
+Fehlt: 
+Schaltplan_UV_0.3.pdf,
+Protokoll_Unterschrieben_UV_0.3.pdf,
+Stromkreislegende_UV_0.3.pdf,
+UV_0.3.zw1
+0  Dateien sind vorhanden! 
+
+<class 'datetime.time'>
+Ordner 29 (H:\Programming\Bartho\angep Ordnerstruktur Barto\Schaltplaene\Verwaltung\UG\Lüftung)
+Enthält: 
+Fehlt: 
+Schaltplan_Lüftung.pdf,
+Protokoll_Unterschrieben_Lüftung.pdf,
+Stromkreislegende_Lüftung.pdf,
+Lüftung.zw1
+0  Dateien sind vorhanden! 
+
+<class 'datetime.time'>
+Ordner 30 (H:\Programming\Bartho\angep Ordnerstruktur Barto\Schaltplaene\Verwaltung\UG\Lüftungstechnik_+SLAVE_1.OG)
+Enthält: 
+Fehlt: 
+Schaltplan_Lüftungstechnik_+SLAVE_1.OG.pdf,
+Protokoll_Unterschrieben_Lüftungstechnik_+SLAVE_1.OG.pdf,
+Stromkreislegende_Lüftungstechnik_+SLAVE_1.OG.pdf,
+Lüftungstechnik_+SLAVE_1.OG.zw1
+0  Dateien sind vorhanden! 
+
+<class 'datetime.time'>
+Ordner 31 (H:\Programming\Bartho\angep Ordnerstruktur Barto\Schaltplaene\Verwaltung\UG\Lüftungstechnik_+SLAVE_2.OG)
+Enthält: 
+Fehlt: 
+Schaltplan_Lüftungstechnik_+SLAVE_2.OG.pdf,
+Protokoll_Unterschrieben_Lüftungstechnik_+SLAVE_2.OG.pdf,
+Stromkreislegende_Lüftungstechnik_+SLAVE_2.OG.pdf,
+Lüftungstechnik_+SLAVE_2.OG.zw1
+0  Dateien sind vorhanden! 
+
+<class 'datetime.time'>
+Ordner 32 (H:\Programming\Bartho\angep Ordnerstruktur Barto\Schaltplaene\Verwaltung\UG\Lüftungstechnik_+SLAVE_EG)
+Enthält: 
+Fehlt: 
+Schaltplan_Lüftungstechnik_+SLAVE_EG.pdf,
+Protokoll_Unterschrieben_Lüftungstechnik_+SLAVE_EG.pdf,
+Stromkreislegende_Lüftungstechnik_+SLAVE_EG.pdf,
+Lüftungstechnik_+SLAVE_EG.zw1
+0  Dateien sind vorhanden! 
+
+<class 'datetime.time'>
+Ordner 33 (H:\Programming\Bartho\angep Ordnerstruktur Barto\Schaltplaene\Verwaltung\UG\Lüftungstechnik_+SS)
+Enthält: 
+Fehlt: 
+Schaltplan_Lüftungstechnik_+SS.pdf,
+Protokoll_Unterschrieben_Lüftungstechnik_+SS.pdf,
+Stromkreislegende_Lüftungstechnik_+SS.pdf,
+Lüftungstechnik_+SS.zw1
+0  Dateien sind vorhanden! 
+
+<class 'datetime.time'>
+Ordner 34 (H:\Programming\Bartho\angep Ordnerstruktur Barto\Schaltplaene\Verwaltung\UG\NSHV)
+Enthält: 
+Fehlt: 
+Schaltplan_NSHV.pdf,
+Protokoll_Unterschrieben_NSHV.pdf,
+Stromkreislegende_NSHV.pdf,
+NSHV.zw1
+0  Dateien sind vorhanden! 
+
+<class 'datetime.time'>
+Ordner 35 (H:\Programming\Bartho\angep Ordnerstruktur Barto\Schaltplaene\Verwaltung\UG\Serverraum 2)
+Enthält: 
+175G0105_Protokoll_Unterschrieben_Serverraum_2_.pdf
+175G0105_Schaltplan_Serverraum_2.pdf
+175G0105_Serverraum_2.zw1
+175G0105_Stromkreislegende_Serverraum_2.pdf
+Fehlt: 
+4  Dateien sind vorhanden! 
+
+<class 'datetime.time'>
+Ordner 36 (H:\Programming\Bartho\angep Ordnerstruktur Barto\Schaltplaene\Verwaltung\UG\UV -1.1)
+Enthält: 
+Fehlt: 
+Schaltplan_UV-1.1.pdf,
+Protokoll_Unterschrieben_UV-1.1.pdf,
+Stromkreislegende_UV-1.1.pdf,
+UV-1.1.zw1
+0  Dateien sind vorhanden! 
+
+<class 'datetime.time'>
+Ordner 37 (H:\Programming\Bartho\angep Ordnerstruktur Barto\Schaltplaene\Verwaltung\UG\UV -1.2)
+Enthält: 
+175G0101_Protokoll_Unterschrieben_UV-1_2.pdf
+175G0101_Schaltplan_UV-1_2.pdf
+175G0101_Stromkreislegende_UV-1_2.pdf
+175G0101_UV-1_2.zw1
+Fehlt: 
+4  Dateien sind vorhanden! 
+
+<class 'datetime.time'>
+Ordner 38 (H:\Programming\Bartho\angep Ordnerstruktur Barto\Schaltplaene\Verwaltung\UG\UV -1.2A)
+Enthält: 
+Fehlt: 
+Schaltplan_UV-1.2A.pdf,
+Protokoll_Unterschrieben_UV-1.2A.pdf,
+Stromkreislegende_UV-1.2A.pdf,
+UV-1.2A.zw1
+0  Dateien sind vorhanden! 
+
+<class 'datetime.time'>
+Ordner 39 (H:\Programming\Bartho\angep Ordnerstruktur Barto\Schaltplaene\Verwaltung\UG\UV -1.3)
+Enthält: 
+195G0101_Protokoll_Unterschrieben_UV-1_3.pdf
+195G0101_Schaltplan_UV-1_3.pdf
+195G0101_Stromkreislegende_UV-1_3.pdf
+195G0101_UV-1_3.zw1
+Fehlt: 
+4  Dateien sind vorhanden! 
+
+<class 'datetime.time'>
+Ordner 40 (H:\Programming\Bartho\angep Ordnerstruktur Barto\Schaltplaene\Verwaltung\UG\UV -1.4)
+Enthält: 
+Fehlt: 
+Schaltplan_UV-1.4.pdf,
+Protokoll_Unterschrieben_UV-1.4.pdf,
+Stromkreislegende_UV-1.4.pdf,
+UV-1.4.zw1
+0  Dateien sind vorhanden! 
+
+<class 'datetime.time'>
+Ordner 41 (H:\Programming\Bartho\angep Ordnerstruktur Barto\Schaltplaene\Verwaltung\UG\UV -1.5)
+Enthält: 
+Fehlt: 
+Schaltplan_UV-1.5.pdf,
+Protokoll_Unterschrieben_UV-1.5.pdf,
+Stromkreislegende_UV-1.5.pdf,
+UV-1.5.zw1
+0  Dateien sind vorhanden! 
+
+<class 'datetime.time'>
+Ordner 42 (H:\Programming\Bartho\angep Ordnerstruktur Barto\Schaltplaene\Verwaltung\UG\UV -1.6)
+Enthält: 
+Fehlt: 
+Schaltplan_UV-1.6.pdf,
+Protokoll_Unterschrieben_UV-1.6.pdf,
+Stromkreislegende_UV-1.6.pdf,
+UV-1.6.zw1
+0  Dateien sind vorhanden! 
+
+<class 'datetime.time'>
+Ordner 43 (H:\Programming\Bartho\angep Ordnerstruktur Barto\Schaltplaene\Verwaltung\UG\UV -1.7)
+Enthält: 
+Fehlt: 
+Schaltplan_UV-1.7.pdf,
+Protokoll_Unterschrieben_UV-1.7.pdf,
+Stromkreislegende_UV-1.7.pdf,
+UV-1.7.zw1
+0  Dateien sind vorhanden! 
+
